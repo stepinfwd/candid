@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/%7Brepo-name%7D/static/css/main.3f58b383.chunk.css",
-    "main.js": "/%7Brepo-name%7D/static/js/main.29b02e87.chunk.js",
-    "main.js.map": "/%7Brepo-name%7D/static/js/main.29b02e87.chunk.js.map",
-    "runtime-main.js": "/%7Brepo-name%7D/static/js/runtime-main.ae1241e8.js",
-    "runtime-main.js.map": "/%7Brepo-name%7D/static/js/runtime-main.ae1241e8.js.map",
-    "static/css/2.ceb79488.chunk.css": "/%7Brepo-name%7D/static/css/2.ceb79488.chunk.css",
-    "static/js/2.d6bb7b76.chunk.js": "/%7Brepo-name%7D/static/js/2.d6bb7b76.chunk.js",
-    "static/js/2.d6bb7b76.chunk.js.map": "/%7Brepo-name%7D/static/js/2.d6bb7b76.chunk.js.map",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "precache-manifest.66b29957c7fa9561b42b9a3cf9851a50.js": "/%7Brepo-name%7D/precache-manifest.66b29957c7fa9561b42b9a3cf9851a50.js",
-    "service-worker.js": "/%7Brepo-name%7D/service-worker.js",
-    "static/css/2.ceb79488.chunk.css.map": "/%7Brepo-name%7D/static/css/2.ceb79488.chunk.css.map",
-    "static/css/main.3f58b383.chunk.css.map": "/%7Brepo-name%7D/static/css/main.3f58b383.chunk.css.map",
-    "static/js/2.d6bb7b76.chunk.js.LICENSE.txt": "/%7Brepo-name%7D/static/js/2.d6bb7b76.chunk.js.LICENSE.txt"
+    "main.css": "/candid/static/css/main.3f58b383.chunk.css",
+    "main.js": "/candid/static/js/main.b44a6595.chunk.js",
+    "main.js.map": "/candid/static/js/main.b44a6595.chunk.js.map",
+    "runtime-main.js": "/candid/static/js/runtime-main.45dbbfd8.js",
+    "runtime-main.js.map": "/candid/static/js/runtime-main.45dbbfd8.js.map",
+    "static/css/2.ceb79488.chunk.css": "/candid/static/css/2.ceb79488.chunk.css",
+    "static/js/2.d6bb7b76.chunk.js": "/candid/static/js/2.d6bb7b76.chunk.js",
+    "static/js/2.d6bb7b76.chunk.js.map": "/candid/static/js/2.d6bb7b76.chunk.js.map",
+    "index.html": "/candid/index.html",
+    "precache-manifest.ab69a56e9640dfc22f3a7098a92bd57d.js": "/candid/precache-manifest.ab69a56e9640dfc22f3a7098a92bd57d.js",
+    "service-worker.js": "/candid/service-worker.js",
+    "static/css/2.ceb79488.chunk.css.map": "/candid/static/css/2.ceb79488.chunk.css.map",
+    "static/css/main.3f58b383.chunk.css.map": "/candid/static/css/main.3f58b383.chunk.css.map",
+    "static/js/2.d6bb7b76.chunk.js.LICENSE.txt": "/candid/static/js/2.d6bb7b76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae1241e8.js",
+    "static/js/runtime-main.45dbbfd8.js",
     "static/css/2.ceb79488.chunk.css",
     "static/js/2.d6bb7b76.chunk.js",
     "static/css/main.3f58b383.chunk.css",
-    "static/js/main.29b02e87.chunk.js"
+    "static/js/main.b44a6595.chunk.js"
   ]
 }
